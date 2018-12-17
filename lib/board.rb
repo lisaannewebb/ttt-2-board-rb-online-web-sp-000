@@ -1,1 +1,1 @@
-# Define the variable board below.
+board = ["var1","var2"]
