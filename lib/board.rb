@@ -1,1 +1,1 @@
-board = ["var1","var2"]
+board = "board"
